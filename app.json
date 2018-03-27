@@ -42,10 +42,10 @@
         "text": "动态"
       },
       {
-        "pagePath": "pages/study/directory",
+        "pagePath": "pages/dynamic/music/music",
         "iconPath": "images/tab_dynamic_normal.png",
         "selectedIconPath": "images/tab_dynamic_selected.png",
-        "text": "文章"
+        "text": "音乐"
       }
     ]
   }
