@@ -12,20 +12,23 @@
 
 进度更新：
 
-![](https://github.com/bboybjl/xcx_qq/tree/master/images/demo/qq.png)
+![](https://github.com/bboybjl/xcx_qq/blob/master/images/demo/qq.png)
 
-![](https://github.com/bboybjl/xcx_qq/tree/master/images/demo/contact.png)
+![](https://github.com/bboybjl/xcx_qq/blob/master/images/demo/contact.png)
 
-![](https://github.com/bboybjl/xcx_qq/tree/master/images/demo/dynamic.png)
+![](https://github.com/bboybjl/xcx_qq/blob/master/images/demo/dynamic.png)
 
-![](https://github.com/bboybjl/xcx_qq/tree/master/images/demo/music.png)
-![](https://github.com/bboybjl/xcx_qq/tree/master/images/demo/code.jpg)
+![](https://github.com/bboybjl/xcx_qq/blob/master/images/demo/music.png)
+
+
+![](https://github.com/bboybjl/xcx_qq/blob/master/images/demo/code.jpg)
 
 
 
 
 微信小程序资料推荐：
 
+##[ 微信小程序开发常见问题分析](http://blog.csdn.net/xiehuimx/article/details/52005355)
 
 ##[小程序开发文档](https://mp.weixin.qq.com/debug/wxadoc/dev/index.html)
 
